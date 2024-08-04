@@ -1,0 +1,9 @@
+# IDE Files
+.vscode
+
+# Object Fles
+*.o
+*.so
+
+# Executables
+*.exe
